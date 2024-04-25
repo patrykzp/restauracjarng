@@ -1,0 +1,105 @@
+[
+    {
+        "nazwa": "kox burger",
+        "cena" : 19.99,
+        "opis" : "burger fajny i nananana to opis jakis fajny",
+        "skladniki" : [
+            {"buła górna":{
+                "opcje": [
+                    {"nazwa":"bułka giga koksa", "szansa":1},
+                    {"nazwa":"bułka koksa", "szansa":10},
+                    {"nazwa":"bułka z chleba", "szansa":40},
+                    {"nazwa":"bułka", "szansa":49}
+                    ],
+                    "wysokosc":40
+                }
+            },
+            {"mięso":{
+                "opcje": [
+                    {"nazwa":"z strusia", "szansa":10},
+                    {"nazwa":"wołowina", "szansa":40},
+                    {"nazwa":"z kurczaka", "szansa":50}
+                    ]
+                }
+            },
+            {"ser":{
+                "opcje": [
+                    {"nazwa":"ser plesniowy", "szansa":10},
+                    {"nazwa":"cheedar", "szansa":40},
+                    {"nazwa":"american cheese 🤢", "szansa":50}
+                    ],
+                    "wysokosc":20
+                }
+            },
+            {"mięso II":{
+                "opcje": [
+                    {"nazwa":"z wieprza", "szansa":10},
+                    {"nazwa":"wołowina", "szansa":40},
+                    {"nazwa":"z kurczaka", "szansa":50}
+                    ]
+                }
+            },
+            
+            {"buła dolna":{
+                "opcje": [
+                    {"nazwa":"bułka koksa", "szansa":10},
+                    {"nazwa":"bułka z chleba", "szansa":40},
+                    {"nazwa":"bułka", "szansa":50}
+                    ],
+                    "wysokosc":40
+                }
+            }
+
+
+        ]
+    },
+    {
+        "nazwa": "burger test",
+        "cena" : 39.99,
+        "opis" : "ten burger jest testowy i taki tam nanana",
+        "skladniki" : [
+            {"buła górna":{
+                "opcje": [
+                    {"nazwa":"bułka giga koksa", "szansa":1},
+                    {"nazwa":"bułka koksa", "szansa":10},
+                    {"nazwa":"bułka z chleba", "szansa":40},
+                    {"nazwa":"bułka", "szansa":49}
+                    ],
+                    "wysokosc":40
+                }
+            },
+            {"warzywo":{
+                "opcje": [
+                    {"nazwa":"pomidor", "szansa":33},
+                    {"nazwa":"ogórek", "szansa":33},
+                    {"nazwa":"sałata", "szansa":34}
+                    ]
+                }
+            },
+            {"ser":{
+                "opcje": [
+                    {"nazwa":"ser plesniowy", "szansa":10},
+                    {"nazwa":"cheedar", "szansa":40},
+                    {"nazwa":"american cheese 🤢", "szansa":50}
+                    ],
+                    "wysokosc":20
+                }
+            },
+            
+            {"buła dolna":{
+                "opcje": [
+                    {"nazwa":"bułka koksa", "szansa":10},
+                    {"nazwa":"bułka z chleba", "szansa":40},
+                    {"nazwa":"bułka", "szansa":50}
+                    ],
+                    "wysokosc":40
+                }
+            }
+
+
+        ]
+    }
+
+]
+
+
